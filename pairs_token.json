@@ -58,7 +58,7 @@
        "pair":"EmotiUSD",
        "pairIndex":"14",
        "address":"0x013068CD4EF360312f40179DCEB5c25Bd0C3673A",
-       "chainlink":"0xd2a41d098C012ac6b4B6f27eDfe3020C236e9045",
+       "chainlink":"0xF7Ac09062a74505279568d8bb3F5F7aDe6ee049E",
        "chainlinkdecimals":8,
        "pool":"0x97fF3EB0a78eD92fCd3607a4d6785Acfe7D3A1E0",
        "stableFirst":false,
