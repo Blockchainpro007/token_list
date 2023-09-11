@@ -56,7 +56,7 @@
        "symbol":"Emoti",
        "decimals":"9",
        "pair":"EmotiUSD",
-       "pairIndex":"14",
+       "pairIndex":"4",
        "address":"0x013068CD4EF360312f40179DCEB5c25Bd0C3673A",
        "chainlink":"0x10B3335C8c4105163e6Fc5f2074cb847ACb61672",
        "chainlinkdecimals":8,
