@@ -49,7 +49,7 @@
        "chainlinkdecimals":8,
        "pool":"0x274eb3427b003df465a90c836040a62944f731e7",
        "stableFirst":false,
-       "bscdecimals":4
+       "bscdecimals":2
     },
     {
        "name":"Emoti Coin",
@@ -62,6 +62,6 @@
        "chainlinkdecimals":16,
        "pool":"0x97fF3EB0a78eD92fCd3607a4d6785Acfe7D3A1E0",
        "stableFirst":false,
-       "bscdecimals":4
+       "bscdecimals":2
     }
  ]
