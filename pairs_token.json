@@ -44,10 +44,10 @@
        "decimals":"18",
        "pair":"PEPEUSD",
        "pairIndex":"3",
-       "address":"0x7ffc0F1De2eD84ecBa683388Bf88b128911771c4",
-       "chainlink":"0xBBceB0c4f4B2991c1216DDA13De56c7dBc8625e2",
+       "address":"0xE4a2F16Dd06a130bA25364F60E4661BC1f2728E1",
+       "chainlink":"0x08AfB864EE7C7BC0965EA0849107B74C37240A2b",
        "chainlinkdecimals":8,
-       "pool":"0x274eb3427b003df465a90c836040a62944f731e7",
+       "pool":"0x2B8360aD48b85EDad5D70A9Aa6E42405acc68bff",
        "stableFirst":false,
        "bscdecimals":8
     },
@@ -57,10 +57,10 @@
        "decimals":"9",
        "pair":"EmotiUSD",
        "pairIndex":"4",
-       "address":"0x013068CD4EF360312f40179DCEB5c25Bd0C3673A",
-       "chainlink":"0x10B3335C8c4105163e6Fc5f2074cb847ACb61672",
+       "address":"0x7cBB0Efe2E8910cCc224c4eba73Aac92489C80D6",
+       "chainlink":"0x27b2Ec865D00C5d2CC14183662b6cfbe72ecE88A",
        "chainlinkdecimals":8,
-       "pool":"0x97fF3EB0a78eD92fCd3607a4d6785Acfe7D3A1E0",
+       "pool":"0x38bf793AeDf15128a30A1b1a884d7e4818B79dD0",
        "stableFirst":false,
        "bscdecimals":8
     }
